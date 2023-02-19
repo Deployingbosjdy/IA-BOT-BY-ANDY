@@ -9,5 +9,5 @@ m.reply(`${hasil.result}`.trim())
 } catch {
 throw `*𝙴𝚁𝚁𝙾𝚁*`
 }}
-handler.command = ['bro', 'chatgpt', 'ai', 'siri']
+handler.command = ['bro', 'chatgpt', 'ia', 'siri']
 export default handler
