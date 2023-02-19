@@ -41,7 +41,6 @@ let pp = './Guru.jpg'
 ┣ *🎟️ Premium:* ${user.premium = 'true' ? '✅' : '❌'}
 ┗━━━━━━━━━━━━━━━━┛`, pp, 
       ['⌬ MENU LIST', `${usedPrefix}menu2`]
-      ['⌬ CHAT GPT', `${usedPrefix}ggp`]
     ,m, rpyt)
     //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
    
