@@ -42,7 +42,7 @@ let pp = './Guru.jpg'
 ┗━━━━━━━━━━━━━━━━┛`, pp, 
       ['⌬ MENU LIST', `${usedPrefix}menu2`]
       ['⌬ CHAT GPT', `${usedPrefix}ggp`]
-      ['⌬ CREATOR', `${usedPrefix}creator`]
+      ['⌬ CREATOR', `${usedPrefix}owner`]
     ,m, rpyt)
     //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
    
