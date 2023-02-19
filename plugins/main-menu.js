@@ -40,9 +40,25 @@ let pp = './Guru.jpg'
 ┣ *💎 Diamonds:* ${diamond}
 ┣ *🎟️ Premium:* ${user.premium = 'true' ? '✅' : '❌'}
 ┗━━━━━━━━━━━━━━━━┛`, pp, 
-      ['⌬ MENU LIST', `${usedPrefix}menu2`]
-      ['⌬ CHAT GPT', `${usedPrefix}ggp`]
-    ,m, rpyt)
+         "urlButton": {
+           "displayText": "INSTAGRAM",
+           "url": `https://istagram.com/andy_mr_lit`
+                  }
+               }, {
+         "urlButton": {
+           "displayText": "Rest Api's",
+           "url": `andyrmlit`
+                  }
+               }, {
+         "quickReplyButton": {
+           "displayText": "Creator",
+           "id": '.owner'
+                  }
+               }, {
+         "quickReplyButton": {
+           "displayText": "MENU LIST",
+           "id": '.menu2'
+                  }
     //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
    
 }
