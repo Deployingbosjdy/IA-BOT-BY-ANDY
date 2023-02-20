@@ -2,12 +2,12 @@
 <p align="center">  
   <a href="https://youtu.be/WcA7GZ">
     <img alt="ANDY" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/guru.jpg">
-    <h1 align="center">GURU-BOT</h1>
+    <h1 align="center">IA-BOT</h1>
   </a>
 </p>
 
 ####  
-GURU-BOT- Simple Multi Device whatsapp bot.
+IA-BOT- Simple Multi Device whatsapp bot.
 
 ***
 
